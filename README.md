@@ -8,6 +8,10 @@ Let's install all packages, by running this command from Terminal
 ```
 composer install
 ```
+Let's do some database and edit .env file where you must set up accesss to your database
+```
+.env
+```
 Let's do some migration and seed with dummy datas.
 ```
 php artisan migrate --seed
