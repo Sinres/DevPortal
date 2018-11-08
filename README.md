@@ -21,3 +21,9 @@ And run the web server
 php artisan serve
 ```
 Now, visit http://localhost:8000 to try the demo.
+
+Default login and password for login to portal:
+```
+admin/pass
+```
+
