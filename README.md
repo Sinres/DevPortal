@@ -26,4 +26,11 @@ Default login and password for login to portal:
 ```
 azawada93@gmail.com/pass
 ```
+Wall
+![alt text](https://i.imgur.com/njOd89e.png)
 
+Friend list
+![alt text](https://i.imgur.com/aXofB1O.png)
+
+User profil page
+![alt text](https://i.imgur.com/ArFwC2o.png)
